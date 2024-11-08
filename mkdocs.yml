@@ -1,4 +1,7 @@
 site_name: Create Academy Wiki
+site_url: https://pengicoder.github.io/createacademywiki/
+repo_url: https://github.com/PengiCoder/createacademywiki
+repo_name: Wiki Repo
 theme: ivory
 nav:
   - Home: index.md
