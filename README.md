@@ -1,0 +1,2 @@
+# createacademywiki
+Hi :)
