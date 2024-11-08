@@ -1,0 +1,8 @@
+site_name: Create Academy Wiki
+theme: ivory
+nav:
+  - Home: index.md
+  - How to Join: join.md
+  - List of Mods: mods.md
+  - Items:
+    - Screws: screws.md
