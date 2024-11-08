@@ -1,2 +1,2 @@
 # Welcome to the repo of Create Academy Wiki
-## Go to [pengicoder.github.io/createacademywiki](pengicoder.github.io/createacademywiki)
+Go to [https://pengicoder.github.io/createacademywiki](https://pengicoder.github.io/createacademywiki)
